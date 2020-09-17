@@ -1,8 +1,7 @@
 rencana pekerjaan project mesin
   Membuat schedule project
   Melakukan pemeriksaaan mesin yang akan masih project repair
-  Melakukan pembongkaran mesin dengan memindahkan mesin terlebuh dahulu
-    -Mesin dipindahkan dengan bantuan forklift dan disimpan di line maintenance
+  Melakukan pembongkaran mesin dengan memindahkan mesin dipindahkan dengan bantuan forklift dan disimpan di line maintenance
   Membongkar komponen mesin yang akan dilakukan project repair
   Pisahkan komponen yang sudah mengalami kerusakan dan komponen yang masih dapat digunakan
     -Komponen yang bagus disimpan
