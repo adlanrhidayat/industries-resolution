@@ -1,0 +1,7 @@
+rencana pekerjaan project mesin
+  Melakukan pemeriksaaan mesin yang akan masih project repait
+  Melakukan pembongkaran mesin dengan memindahkan mesin terlebuh dahulu
+  Membongkar komponen mesin yang akan dilakukan project repair
+  Pisahkan komponen yang sudah mengalami kerusakan dan komponen yang masih dapat digunakan
+    -Komponen yang bagus disimpan
+    -komponen yang rusak dibuang
