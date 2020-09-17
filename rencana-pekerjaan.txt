@@ -6,3 +6,4 @@ rencana pekerjaan project mesin
   Pisahkan komponen yang sudah mengalami kerusakan dan komponen yang masih dapat digunakan
     -Komponen yang bagus disimpan
     -komponen yang rusak dibuang
+    -Komponen yang dikira rusak namun masih bisa digunakan lebih baik disimpan
