@@ -4,5 +4,5 @@ rencana pekerjaan project mesin
   Melakukan pembongkaran mesin dengan memindahkan mesin dipindahkan dengan bantuan forklift dan disimpan di line maintenance
   Membongkar komponen mesin yang akan dilakukan project repair
   Pisahkan komponen yang sudah mengalami kerusakan dan komponen yang masih dapat digunakan
-    -Komponen yang bagus disimpan
-    -komponen yang rusak dibuang
+    -Komponen yang masih berfungsi disimpan
+    -komponen yang sudah rusak dibuang
